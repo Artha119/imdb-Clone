@@ -1,0 +1,36 @@
+.flexTable{
+    display: flex;
+}
+
+.cx{
+    font-size: small;
+    color: grey;
+    font-weight: bold;
+}
+
+.ca{
+    flex:2;
+    flex-basis: 10vh;
+    text-align: center;
+    background-color: #282c34;
+}
+
+.cb {
+    flex: 3;
+    flex-basis: 70%;
+    background-color: #61dafb;
+    margin-top: auto; !important;
+    margin-bottom: auto; !important;
+}
+
+.cc{
+    font-size: small;
+    color: grey;
+    font-weight: bold;
+}
+
+.cd{
+    font-size: small;
+    color: grey;
+    font-weight: bold;
+}

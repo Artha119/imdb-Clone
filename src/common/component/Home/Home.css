@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+.const text  {
+    textAlign: 'left';
+
+}
+.combobox{
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    /*align-items: ;*/
+}
+.combobox1{
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    /*align-items: ;*/
+    align-items: center;
+}
+.datatable:hover{
+    cursor: pointer !important;
+=======
+.text () {
+
+
+>>>>>>> origin/main
+}

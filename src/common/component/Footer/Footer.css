@@ -1,0 +1,42 @@
+.name1{
+    background-color: black;
+    height: 400px;
+    width: 100%;
+}
+
+.button{
+    background-color: yellow;
+    height: 40px;
+    width: 15%;
+    text-transform: none;
+    /*padding: 15px 32px;*/
+    border-radius: 8px;
+    margin:50px auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    font-weight: bold;
+
+}
+
+.button:hover{
+ cursor: pointer;
+}
+
+.whiteLink{
+    color: white;
+}
+
+.whiteLink1{
+    color: white;
+    align-items: center;
+    text-align: center;
+}
+
+.whiteLink2{
+    color: darkgray;
+    align-items: center;
+    text-align: center;
+    font-size: small;
+}
